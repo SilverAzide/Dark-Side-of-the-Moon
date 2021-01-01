@@ -6,7 +6,7 @@ One of the greatest progressive rock albums of all time is Pink Floyd's _The Dar
 
 Anyone who's heard of Pink Floyd, or _The Dark Side of the Moon_ (aka, _DTSOM_), has certainly seen one of the most iconic album covers ever made: completely black, with no title or name of the band, just a prism refracting a beam of white light. Inside the gatefold cover, along with the song lyrics, the refracted light beam continues across -- with the signature "heartbeat" -- and wraps around to the back cover. The back contains another prism, concentrating the prismatic rays back into a white ray of light which wraps around to the front, to start the cycle over again.
 
-Back in 2018, I decided to celebrate the 45th anniversary of the album by creating a visualizer in the style of the album cover, using nothing but Shape meters and math. Ha! I never completed the task due to the complexity involved, but I finally completed it over a long weekend. While not _quite_ as cool as the real thing, this visualizer comes as close as I can get without a gatefolding double-sided monitor.
+Back in 2018, I decided to celebrate the 45th anniversary of the album by creating a visualizer in the style of the album cover, using nothing but Shape meters and math. Ha! I never completed the task due to the complexity involved, but I finally completed it over a long weekend in 2020. While not _quite_ as cool as the real thing, this visualizer comes as close as I can get without a gatefolding double-sided monitor.
 
 [![Click here to download](https://img.shields.io/github/v/release/SilverAzide/Dark-Side-of-the-Moon?logo=github&label=Click%20here%20to%20download&color=blueviolet&style=for-the-badge)](https://github.com/SilverAzide/Dark-Side-of-the-Moon/releases/download/v1.0.0/Dark-Side-of-the-Moon_1.0.0.rmskin)
 
@@ -22,9 +22,10 @@ Also, this skin is a visualizer **only**. It cannot and will not control your me
 ![](Images/Settings.png)
 
 There are only a few simple settings for the visualizer.
-* Click the moon/eclipse to toggle the visualizer on/off.
+* Click the moon to toggle the visualizer on/off.
 * Select your preferred media player from the list (these are players supported natively by Rainmeter).
-* Queue up album (preferably the remastered 5.1 mix), turn out the lights, and crank the volume! (Also playing the _Wizard of Oz_ is optional.)
+* Queue up the album (preferably the remastered 5.1 mix), turn out the lights, and crank the volume! (Also playing the _Wizard of Oz_ is optional.)
+* Keep your eyes peeled for easter eggs... :wink:
 
 For best appearance, and to show the world how much of a die-hard Floyd fan you are, set your desktop wallpaper to solid black, like the album cover. Lesser fans can opt for a near-black desktop, though you may invite mild derision for your lack of dedication.
 
